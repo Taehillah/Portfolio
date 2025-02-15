@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/MyResume-1.0.0/assets"
+		},
+		{
+			"path": "../Downloads/MyResume-1.0.0/forms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio-1"
+	}
+}
